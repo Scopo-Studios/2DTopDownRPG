@@ -8,6 +8,8 @@ Commits:
 Hans:
     - First Commit: Part 3
     - Second Commit: Part 10
+    - Third Commit: Part 32
+    - Fourth Commit: Part 32 (Forgot to update README)
 Joseph:
 David:
 
